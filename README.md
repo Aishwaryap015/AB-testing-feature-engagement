@@ -58,3 +58,10 @@ This project demonstrates the ability to:
 - Design controlled experiments
 - Apply statistical reasoning
 - Make data-driven product decisions
+
+---
+
+## 👩‍💻 Author
+
+**Aishwarya Priydarshni**  
+Aspiring Data Analyst | SQL | Product Analytics | Data Visualization
